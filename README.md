@@ -45,5 +45,15 @@ Superstore_Dataset.csv
 
 ---
 
+## Key Insights
+
+- The West region generated the highest total sales.
+- High discount rates significantly reduce profit margins.
+- Certain sub-categories consistently produce negative profits.
+- Year-over-Year sales growth shows steady upward trend.
+- Average shipping time is approximately 3.95 days.
+
+---
+
 ## Next Steps
 Dashboard visualization in Power BI.
